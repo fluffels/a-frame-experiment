@@ -1,2 +1,3 @@
 require('aframe');
-console.log('test2');
+require('aframe-extras');
+require('aframe-physics-system');
