@@ -1,0 +1,6 @@
+negy.png filter=lfs diff=lfs merge=lfs -text
+negz.png filter=lfs diff=lfs merge=lfs -text
+posx.png filter=lfs diff=lfs merge=lfs -text
+posy.png filter=lfs diff=lfs merge=lfs -text
+posz.png filter=lfs diff=lfs merge=lfs -text
+negx.png filter=lfs diff=lfs merge=lfs -text
